@@ -53,6 +53,9 @@ Start the server
 ## Screenshots
 
 Add Resources
-![Registration](https://drive.google.com/uc?export=view&id=1pl-FbBjvd0-jzRsoe_EjU1FN55uByYlr)
+
+![Add Resources](https://drive.google.com/uc?export=view&id=1pl-FbBjvd0-jzRsoe_EjU1FN55uByYlr)
+
 View Resources
-![Login](https://drive.google.com/uc?export=view&id=1zSq5Z4m5ZSvYlu2ZPBTdap0e1n6OVB-a)
+
+![View Resources](https://drive.google.com/uc?export=view&id=1zSq5Z4m5ZSvYlu2ZPBTdap0e1n6OVB-a)
